@@ -43,6 +43,10 @@ header > div > button{
     padding: 50px 100px;
 }
 
+#outitems{
+    margin-bottom: 150px;
+}
+
 .item{
     position: relative;
     margin-top: 10px;
